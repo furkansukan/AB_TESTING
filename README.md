@@ -1,9 +1,8 @@
 # AB_TESTING
-AB Testi ile Bidding Yöntemlerinin Dönüşümünün Karşılaştırılması
+# AB Testi ile Bidding Yöntemlerinin Dönüşümünün Karşılaştırılması
 
 ![image](https://github.com/furkansukan/AB_TESTING/assets/115731123/5ff93404-302d-4116-be8f-047fec426d92)
 
-# AB Testi ile Bidding Yöntemlerinin Dönüşümünün Karşılaştırılması
 
 # İş Problemi
 
