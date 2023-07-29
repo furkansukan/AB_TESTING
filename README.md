@@ -25,6 +25,9 @@ Bidding uygulanmıştır.
 # Değişkenler
 
 Impression : Reklam görüntüleme sayısı
+
 Click : Görüntülenen reklama tıklama sayısı
+
 Purchase : Tıklanan reklamlar sonrası satın alınan ürün sayısı
+
 Earning : Satın alınan ürünler sonrası elde edilen kazanç
